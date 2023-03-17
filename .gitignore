@@ -1,0 +1,7 @@
+.fleet
+.idea
+tmp
+local
+.env
+config.yaml
+.DS_store
